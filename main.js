@@ -26,3 +26,10 @@ console.log(checkDifferenza);
 
 const differenza2 = (n1, n2) => n1 - n2;
 console.log(differenza2(5,4));
+
+// 3. Crea una funzione che non accetta parametri e logga in console un messaggio a piacere
+
+function withoutParam (){
+    console.log("ciaooooo");
+}
+
