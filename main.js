@@ -33,3 +33,9 @@ function withoutParam (){
     console.log("ciaooooo");
 }
 
+console.log(withoutParam());
+
+const withoutParam2 = () => console.log("ciaooooo");
+console.log(withoutParam2());
+
+
